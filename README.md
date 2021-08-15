@@ -1,6 +1,6 @@
 # CONTRIBUTORS :
 
-- Lead Developer : [Anjali Singh](https://github.com/pikachu28)
+- Lead Developer : [Binwant Kaur](https://github.com/kbinwant31)
 - UI/UX Designer & Product Manager : [Aman Jha](https://github.com/inofficialamanjha)
 
 # DESIGN :
