@@ -1,6 +1,6 @@
 # CONTRIBUTORS :
 
-- Lead Developer : [Binwant Kaur](https://github.com/kbinwant31)
+- Developers : [Vipin Soni](https://github.com/Vipinofficial) [Binwant Kaur](https://github.com/kbinwant31)
 - UI/UX Designer & Product Manager : [Aman Jha](https://github.com/inofficialamanjha)
 
 # DESIGN :
